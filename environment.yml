@@ -1,11 +1,12 @@
 dependencies:
   - python=3
   - pip:
+    - spacy
     - ipykernel
-    - snownlp
-    - ggplot
-    - plotnine
-    - xlrd
-    - pandas
+    - scipy
+    - numpy
+    - scikit-learn
     - matplotlib
+    - pandas
+    - thinc
     - numpy
