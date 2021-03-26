@@ -1,0 +1,9 @@
+dependencies:
+  - python=3
+  - pip:
+    - ipykernel
+    - snownlp
+    - ggplot
+    - plotnine
+    - xlrd
+    - pandas
