@@ -7,3 +7,5 @@ dependencies:
     - plotnine
     - xlrd
     - pandas
+    - matplotlib
+    - numpy
